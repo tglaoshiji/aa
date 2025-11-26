@@ -1,0 +1,51 @@
+name: Deploy Hexo to GitHub Pages
+
+on:
+  push:
+    branches: [ main ] # 当向 main 分支推送时触发，你可根据实际情况改为 master 等
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 检出博客源代码
+      - name: Checkout Source
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      # 2. 设置 Node.js 环境
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.19.0' # 请确保此版本与你本地使用的 Node.js 主要版本兼容:cite[1]:cite[8]
+
+      # 3. 缓存 npm 依赖以加速后续构建
+      - name: Cache NPM Dependencies
+        uses: actions/cache@v4
+        with:
+          path: source/node_modules
+          key: ${{ runner.OS }}-npm-cache-${{ hashFiles('source/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache-
+
+      # 4. 安装依赖并生成静态文件
+      - name: Install and Build
+        run: |
+          cd source
+          npm install
+          npx hexo clean
+          npx hexo generate
+
+      # 5. 部署到 gh-pages 分支
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # 使用之前保存在 Secrets 中的 PERSONAL_TOKEN
+          personal_token: ${{ secrets.HEXO_DEPLOY }}
+          # 静态文件的路径，对应 Hexo 生成的 public 文件夹
+          publish_dir: ./source/public
+          # 指定要推送到的目标分支
+          publish_branch: gh-pages
+          # 可选：为本次部署提交一个清晰的注释
+          commit_message: ${{ github.event.head_commit.message }} - Automated deployment via GitHub Actions
