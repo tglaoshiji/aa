@@ -1,0 +1,80 @@
+/* 自定义header图片高度为一半屏幕 */
+#page-header {
+  height: 50vh !important;
+  min-height: 50vh !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+}
+
+/* 移动设备背景图片居中优化 */
+@media (max-width: 768px) {
+  #page-header {
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: scroll !important;
+    height: 40vh !important;
+    min-height: 300px !important;
+  }
+  
+  #page-header #site-info {
+    padding: 0 20px;
+  }
+  
+  #page-header #site-title {
+    font-size: 1.8rem !important;
+  }
+  
+  #page-header #site-subtitle {
+    font-size: 1rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #page-header {
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: scroll !important;
+    height: 35vh !important;
+    min-height: 250px !important;
+  }
+  
+  #page-header #site-info {
+    padding: 0 15px;
+  }
+  
+  #page-header #site-title {
+    font-size: 1.5rem !important;
+  }
+  
+  #page-header #site-subtitle {
+    font-size: 0.9rem !important;
+  }
+}
+
+/* 确保header内容垂直居中 */
+#page-header #site-info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+/* 调整导航栏位置 */
+#page-header #nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+/* 调整滚动下拉按钮位置 */
+#page-header #scroll-down {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}

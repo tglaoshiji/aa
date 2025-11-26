@@ -1,0 +1,90 @@
+/* 注入 CSS 文件修改 CSS 变量使用示例 */
+
+:root {
+   /* 修改全局默认字体大小 */
+   --base-font-size: 16px;
+
+   /* 修改全局默认字体样式 */
+   --base-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Lato,Roboto,"PingFang SC","Microsoft JhengHei","Microsoft YaHei",sans-serif;
+
+   /* 设置模块卡片的边框圆角 */
+   --box-border-radius: 14px;
+
+   /* 设置 Header 头部高度 */
+   --header-height: 60px;
+
+   /* 
+      设置 Header 头部收缩时的高度
+      必须小于 Header 头部正常状态的高度
+   */
+   --header-shrink-height: 50px;
+
+   /* 设置 Header 头部的背景毛玻璃效果程度 */
+   --header-backdrop-filter-blur: 5px;
+
+   /* 设置 Header 头部的 Title 字体大小 */
+   --header-title-font-size: 30px;
+
+   /* 设置 Header 头部的 Title 字体样式 */
+   --header-title-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Lato,Roboto,"PingFang SC","Microsoft JhengHei","Microsoft YaHei",sans-serif;
+
+   /* 
+      设置 Header 头部是否显示导航菜单的图标
+      显示：inline-flex（默认） 
+      不显示：none 
+    */
+   --header-menu-icon: inline-flex;
+
+   /* 设置首屏的文字字体大小 */
+   --first-screen-font-size: 24px;
+
+   /* 设置首屏的图标字体大小 */
+   --first-screen-icon-size: 30px;
+
+   /* 设置首屏的文字颜色（白昼模式） */
+   --first-screen-font-color-light: rgba(255, 235, 59, 0.9);
+
+   /* 设置首屏的文字颜色（暗黑模式） */
+/*   --first-screen-font-color-dark: rgba(76, 124, 231, 0.87);*/
+
+   /* 设置首屏的图标颜色（白昼模式） */
+   --first-screen-icon-color-light: rgba(139, 195, 74, 0.9);
+
+   /* 设置首屏的图标颜色（暗黑模式） */
+/*   --first-screen-icon-color-dark: rgba(65, 178, 224, 0.9);*/
+
+   /* 设置首屏开启状态下的头部的字体颜色（白昼模式） */
+   --first-screen-header-font-color-light: #ddd;
+
+   /* 设置首屏开启状态下的头部的字体颜色（暗黑模式） */
+/*   --first-screen-header-font-color-dark: #333;*/
+
+   /* 设置首屏描述文字 Y 轴的偏移值 */
+   --first-screen-font-offset: 50px;
+
+   /* 设置首页文章模块鼠标悬浮时的缩放级别（默认 1） */
+   --home-post-hover-scale: 1.025;
+
+   /* 隐藏文章内容页面作者头像 */
+/*   --post-author-avatar: none;*/
+
+   /* 隐藏文章内容页面作者名称 */
+/*   --post-author-name: none;*/
+
+   /* 隐藏文章内容页面的文章创建时间 */
+/*   --post-create-datetime: none;*/
+
+   /* 隐藏文章内容页面的文章修改时间 */
+/*   --post-update-datetime: none;*/
+
+   /* 
+      设置文章中的图片排列位置
+      居左：0 auto 0 0（默认）
+      居中：0 auto
+      居右：0 0 0 auto
+   */
+   --post-img-align: 0 auto 0 0;
+
+   /* 设置页面内容区域的最大宽度（默认 928px） */
+   --page-content-max-width: 1000px;
+}
