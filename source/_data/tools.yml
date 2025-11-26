@@ -1,0 +1,28 @@
+- category: AI对话工具
+
+- name: ChatGPT
+  link: https://chatgpt.com/
+  description: OpenAI旗下AI对话工具
+  image: /images/tools/ChatGPT.svg
+
+- name: Gemini
+  link: https://gemini.google.com/app
+  description: Google旗下AI对话工具
+  image: /images/tools/Google_Gemini.svg
+
+- name: Copilot
+  link: https://copilot.microsoft.com/
+  description: Microsoft旗下AI对话工具
+  image: /images/tools/Microsoft_Copilot.svg
+
+- name: 通义千问
+  link: https://tongyi.aliyun.com/qianwen/
+  description: 阿里巴巴旗下AI对话工具
+  image: /images/tools/tongyi.svg
+
+- category: AI代码助手
+
+- name: Copilot
+  link: https://github.com/features/copilot/plans
+  description: GitHub代码补全工具
+  image: /images/tools/GitHub_Copilot.svg

@@ -1,0 +1,55 @@
+- class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>在线AI助理'
+  class_desc: '<span style="font-style: italic;">在线人工智能助理</span>'
+  link_list:
+    - name: ChatGPT
+      link: https://chatgpt.com/
+      descr: OpenAI旗下AI对话工具
+      avatar: /images/tools/ChatGPT.svg
+    - name: Gemini
+      link: https://gemini.google.com/app
+      descr: Google旗下AI对话工具
+      avatar: /images/tools/Google_Gemini.svg
+    - name: Copilot
+      link: https://copilot.microsoft.com/
+      descr: Microsoft旗下AI对话工具
+      avatar: /images/tools/Microsoft_Copilot.svg
+    - name: 通义千问
+      link: https://tongyi.aliyun.com/qianwen/
+      descr: 阿里巴巴旗下AI对话工具
+      avatar: /images/tools/tongyi.svg
+
+- class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>AI编码助手'
+  class_desc: '<span style="font-style: italic;">IDE辅助编码插件</span>'
+  link_list:
+    - name: Copilot
+      link: https://github.com/features/copilot/plans
+      descr: GitHub代码补全工具
+      avatar: /images/tools/GitHub_Copilot.svg
+
+- class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>博客写作工具'
+  class_desc: '<span style="font-style: italic;">在线markdown编辑、封面制作、图床</span>'
+  link_list:
+    - name: Coverview
+      link: https://coverview.vercel.app/editor
+      descr: 博客配图制作工具
+      avatar: https://coverview.vercel.app/static/media/logo.5d3dd1b68da4b08fcf92.png
+    - name: picX
+      link: https://picx.xpoet.cn
+      descr: github pages图床
+      avatar: https://picx.xpoet.cn/assets/logo.ffee4291.png
+    - name: telegraph-Image
+      link: https://img.bitmap.us.kg/
+      descr: telegraph图床
+      avatar: https://img.bitmap.us.kg/favicon.ico
+
+- class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>在线文档笔记'
+  class_desc: '<span style="font-style: italic;">支持多端同步的在线文档和知识库</span>'
+  link_list:
+    - name: 语雀
+      link: https://www.yuque.com/dashboard
+      descr: 优雅高效的在线文档编辑与协同工具
+      avatar: /images/tools/yuque.svg
+    - name: notion
+      link: https://www.notion.so/personal
+      descr: A new tool that blends your everyday work apps into one
+      avatar: /images/tools/notion.svg
