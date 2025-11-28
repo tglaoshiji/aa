@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/posts/ba46eb53.html</loc>
+    <loc>https://tglaoshiji.github.io/aa/posts/node121347.html</loc>
     
     <lastmod>2025-11-28</lastmod>
     
@@ -75,6 +75,15 @@
   
   <url>
     <loc>https://tglaoshiji.github.io/aa/posts/node121347.html</loc>
+    
+    <lastmod>2025-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tglaoshiji.github.io/aa/posts/ba46eb53.html</loc>
     
     <lastmod>2025-11-28</lastmod>
     
@@ -185,14 +194,14 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/categories/cate1/</loc>
+    <loc>https://tglaoshiji.github.io/aa/categories/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
     <lastmod>2025-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/categories/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://tglaoshiji.github.io/aa/categories/cate1/</loc>
     <lastmod>2025-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
