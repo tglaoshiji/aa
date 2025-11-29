@@ -336,7 +336,7 @@ inject:
   css:
     -
       # e.g.
-      - /css/keep/custom.css
+      - /aa/css/keep/custom.css
       # - /css/custom-2.css
     # - ...
   js:
