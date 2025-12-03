@@ -4,7 +4,7 @@
 
 ### 订阅地址:
 
-###  [点击进入](https://telegeam.github.io/blog1/)
+###  [点击进入](https://tglaoshiji.github.io/aa/)
 
 # 高速机场推荐:
 
