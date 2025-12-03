@@ -113,7 +113,7 @@ https://oneclash.githubrowcontent.com/2025/12/20251203.yaml
 
 **mihomo订阅链接**
 
-https://oneclash.githubrowcontent.com/2025/11/m20251130.yaml
+https://oneclash.githubrowcontent.com/2025/12/m20251130.yaml
 
 ### Tips
 
