@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/tags/index.html</loc>
+    <loc>https://tglaoshiji.github.io/aa/link/index.html</loc>
     
     <lastmod>2025-12-06</lastmod>
     
@@ -20,7 +20,34 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/link/index.html</loc>
+    <loc>https://tglaoshiji.github.io/aa/tags/index.html</loc>
+    
+    <lastmod>2025-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tglaoshiji.github.io/aa/categories/index.html</loc>
+    
+    <lastmod>2025-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tglaoshiji.github.io/aa/about/index.html</loc>
+    
+    <lastmod>2025-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tglaoshiji.github.io/aa/posts/aez121342.html</loc>
     
     <lastmod>2025-12-06</lastmod>
     
@@ -74,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/posts/node121341.html</loc>
-    
-    <lastmod>2025-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://tglaoshiji.github.io/aa/posts/node20251203.html</loc>
     
     <lastmod>2025-12-06</lastmod>
@@ -119,25 +137,7 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/about/index.html</loc>
-    
-    <lastmod>2025-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tglaoshiji.github.io/aa/categories/index.html</loc>
-    
-    <lastmod>2025-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tglaoshiji.github.io/aa/posts/aez121342.html</loc>
+    <loc>https://tglaoshiji.github.io/aa/posts/node121341.html</loc>
     
     <lastmod>2025-12-06</lastmod>
     
