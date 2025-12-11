@@ -223,10 +223,10 @@ reward:
   enable: true
   text:
   QR_code:
-   # - img: /images/wechat.webp
+   # - img: /images/1.webp
     #   link:
       text: wechat
-    # - img: /img/alipay.jpg
+    # - img: /img/1.jpg
     #   link:
     #   text: alipay
 
