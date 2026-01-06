@@ -1,5 +1,5 @@
  
-## 更新时间 2026-1-5
+## 更新时间 2026-1-6
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!!!
 
 ### 订阅地址:
@@ -111,9 +111,9 @@
 
 * * *
 
-### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.vip/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.vip/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -167,12 +167,12 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 
 
 ### 高速机场推荐1 快猫
-高速机场推荐1 [【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+高速机场推荐1 [【快猫】](https://cf4.ikuaimao.cloud/#/register?code=9xg6G0AV)
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-👉[[点击注册]](https://kuaimao.io/#/register?code=9xg6G0AV)
+👉[[点击注册]](https://cf4.ikuaimao.cloud/#/register?code=9xg6G0AV)
 
 
 ### 高速机场推荐3 轻云
