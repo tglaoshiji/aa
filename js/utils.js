@@ -14,37 +14,35 @@
       }
     },
 
-    throttle: function (func, wait, options = {}) {
-      let timeout, context, args
+    throttle: (func, wait, options = {}) => {
+      let timeout, args
       let previous = 0
 
       const later = () => {
         previous = options.leading === false ? 0 : new Date().getTime()
         timeout = null
-        func.apply(context, args)
-        if (!timeout) context = args = null
+        func(...args)
+        if (!timeout) args = null
       }
 
-      const throttled = (...params) => {
+      return (...params) => {
         const now = new Date().getTime()
         if (!previous && options.leading === false) previous = now
         const remaining = wait - (now - previous)
-        context = this
         args = params
+
         if (remaining <= 0 || remaining > wait) {
           if (timeout) {
             clearTimeout(timeout)
             timeout = null
           }
           previous = now
-          func.apply(context, args)
-          if (!timeout) context = args = null
+          func(...args)
+          if (!timeout) args = null
         } else if (!timeout && options.trailing !== false) {
           timeout = setTimeout(later, remaining)
         }
       }
-
-      return throttled
     },
 
     overflowPaddingR: {
@@ -106,7 +104,7 @@
 
     loadComment: (dom, callback) => {
       if ('IntersectionObserver' in window) {
-        const observerItem = new IntersectionObserver((entries) => {
+        const observerItem = new IntersectionObserver(entries => {
           if (entries[0].isIntersecting) {
             callback()
             observerItem.disconnect()
@@ -169,17 +167,7 @@
 
     isHidden: ele => ele.offsetHeight === 0 && ele.offsetWidth === 0,
 
-    getEleTop: ele => {
-      let actualTop = ele.offsetTop
-      let current = ele.offsetParent
-
-      while (current !== null) {
-        actualTop += current.offsetTop
-        current = current.offsetParent
-      }
-
-      return actualTop
-    },
+    getEleTop: ele => ele.getBoundingClientRect().top + window.scrollY,
 
     loadLightbox: ele => {
       const service = GLOBAL_CONFIG.lightbox
@@ -190,7 +178,7 @@
       }
 
       if (service === 'fancybox') {
-        Array.from(ele).forEach(i => {
+        ele.forEach(i => {
           if (i.parentNode.tagName !== 'A') {
             const dataSrc = i.dataset.lazySrc || i.src
             const dataCaption = i.title || i.alt || ''
@@ -249,7 +237,7 @@
                       'rotateCW',
                       'flipX',
                       'flipY',
-                      "reset"
+                      'reset'
                     ],
                     right: ['autoplay', 'thumbs', 'close']
                   }
