@@ -38,33 +38,6 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/about/index.html</loc>
-    
-    <lastmod>2026-01-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-12-2-freenode/</loc>
-    
-    <lastmod>2026-01-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-12-20-freenode/</loc>
-    
-    <lastmod>2026-01-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-12-21-freenode/</loc>
     
     <lastmod>2026-01-12</lastmod>
@@ -335,6 +308,15 @@
   </url>
   
   <url>
+    <loc>https://tglaoshiji.github.io/aa/about/index.html</loc>
+    
+    <lastmod>2026-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-11-26-freenode/</loc>
     
     <lastmod>2026-01-12</lastmod>
@@ -344,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-11-28-freenode/</loc>
+    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-11-27-freenode/</loc>
     
     <lastmod>2026-01-12</lastmod>
     
@@ -353,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-11-27-freenode/</loc>
+    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-11-28-freenode/</loc>
     
     <lastmod>2026-01-12</lastmod>
     
@@ -471,6 +453,24 @@
   
   <url>
     <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-12-19-freenode/</loc>
+    
+    <lastmod>2026-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-12-2-freenode/</loc>
+    
+    <lastmod>2026-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tglaoshiji.github.io/aa/2026/01/12/2025-12-20-freenode/</loc>
     
     <lastmod>2026-01-12</lastmod>
     
