@@ -301,7 +301,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Like Stars 🌟🌟
-      link: https://tglaoshiji.github.io/
+      link: https://tglaoshiji.github.io/aa
   card_announcement:
     enable: true
     content: this is my blog , i write about shit.
