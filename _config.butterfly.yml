@@ -304,7 +304,7 @@ aside:
       link: https://tglaoshiji.github.io/aa
   card_announcement:
     enable: true
-    content: this is my blog , i write about shit.
+    content: 每日精选SSR/V2ray/Clash免费节点每天更新.供大家免费使用，支持ss/ssr/v2ray/vmess/trojan/clash等众多协议
   card_recent_post:
     enable: true
     # If set 0 will show all
