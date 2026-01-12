@@ -48,7 +48,7 @@ mindmap2: false
 
 ## 高速机场推荐1
 
-### [【冲上云霄】 ](https://cpdd.one/?r=42354)
+### [[【冲上云霄】 ]](https://cpdd.one/?r=42354)
 
 试用：1天 1G
 
