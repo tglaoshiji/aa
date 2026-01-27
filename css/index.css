@@ -199,6 +199,7 @@ template {
 #aside-content .aside-list > .aside-list-item .content > .name,
 #aside-content .aside-list > .aside-list-item .content > .title,
 #aside-content .aside-list > .aside-list-item .content > .comment,
+#page-header #site-title,
 #post-info .post-title,
 .pagination-related .info .info-1 .info-item-2,
 .pagination-related .info .info-2 .info-item-1,
@@ -1931,7 +1932,8 @@ blockquote > :last-child {
 @-moz-document url-prefix() {
   scrollbar-color: var(--hlscrollbar-bg) transparent;
 }
-figure.highlight table::-webkit-scrollbar-thumb {
+figure.highlight table::-webkit-scrollbar-thumb,
+.container figure.highlight.default pre::-webkit-scrollbar-thumb {
   background: var(--hlscrollbar-bg);
 }
 figure.highlight pre .deletion {
@@ -2083,6 +2085,9 @@ figure.highlight pre .javascript .function {
 .container figure.highlight figcaption a:hover,
 .container figure.highlight .caption a:hover {
   border-bottom-color: var(--hl-color);
+}
+.container figure.highlight.default pre {
+  padding: 10px 20px;
 }
 .container figure.highlight.copy-true {
   -webkit-user-select: all;
@@ -4498,6 +4503,7 @@ figure.highlight pre .javascript .function {
   margin: 0;
   color: var(--white);
   font-size: 1.85em;
+  -webkit-line-clamp: 3;
 }
 @media screen and (min-width: 768px) {
   #page-header #site-title {
@@ -5481,13 +5487,13 @@ figure.highlight pre .javascript .function {
   display: none;
   padding: 0 0 15px;
   width: 100%;
-  border-radius: 6px;
 }
 .post-reward .reward-main .reward-all {
   display: inline-block;
   margin: 0;
   padding: 20px 10px;
   background: var(--reward-pop);
+  border-radius: 6px;
 }
 .post-reward .reward-main .reward-all:before {
   position: absolute;
