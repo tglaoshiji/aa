@@ -1,5 +1,5 @@
  
-## 更新时间 2026-2-2
+## 更新时间 2026-2-3
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!!!
 
 ### 订阅地址:
@@ -153,18 +153,6 @@
 
 
 * * *
-
-### 高速机场推荐5 火烧云
-
-高速机场推荐5[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。
-
-💡
-ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
-
-👉[[点击注册]](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
 
 ### 高速机场推荐1 快猫
 高速机场推荐1 [【快猫】](https://cf4.ikuaimao.cloud/#/register?code=9xg6G0AV)
