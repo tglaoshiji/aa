@@ -1,24 +1,18 @@
 ---
 layout: post
-title: 1月4日 | 最高速度14.2M/S，最新SSR/V2ray/Clash/Shadowrocket/Mihomo免费节点高速订阅链接
+title: 2月14日 | 最高速度14.8M/S，最新SSR/V2ray/Clash/Shadowrocket/Mihomo免费节点高速订阅链接
 tags:  [clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费节点,订阅地址,订阅链]
 categories: [免费节点, 科学上网]
-description: 2026年1月4日节点说明 节点数量：50个 最高速度：14.2M/S 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡等 clash订阅链接 v2ray订阅链接
+description: 2026年2月14日节点说明 节点数量：50个 最高速度：14.8M/S 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡等 clash订阅链接 v2ray订阅链接
 keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费节点,订阅地址,订阅链
-mermaid: false
-sequence: false
-flow: false
-mathjax: false
-mindmap: false
-mindmap2: false
 ---
 
 
-### 2026年1月4日节点说明
+### 2026年2月14日节点说明
 
 节点数量：50个
 
-最高速度：14.2M/S
+最高速度：14.8M/S
 
 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡等
 
@@ -72,7 +66,7 @@ mindmap2: false
 
 **多协议高速中转：**Vless/Hysteria2/SS/VMess 等
 
-注册地址：【[超实惠官网（点击注册）](https://cshjc.top/web/#/login?code=3gGou0QQc) 】
+### 注册地址：【[超实惠官网（点击注册）](https://cshjc.top/web/#/login?code=3gGou0QQc) 】
 
 ## 4.高速机场推荐[【西游云】](https://www.xiyou666.xyz/?code=2mVFWPT1)
 
@@ -104,11 +98,11 @@ mindmap2: false
 
 **v2ray订阅链接:**
 
-http://stairnode.cczzuu.top/node/20260104-v2ray.txt
+http://stairnode.cczzuu.top/node/20260214-v2ray.txt
 
 **clash订阅链接**
 
-http://stairnode.cczzuu.top/node/20260104-clash.yaml
+http://stairnode.cczzuu.top/node/20260214-clash.yaml
 
 
 
