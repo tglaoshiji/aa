@@ -23,17 +23,6 @@
 
 *  *   *
 
-### [冲上云霄](https://cpdd.one/?r=42354)
-
-点击注册：[点击进入](https://cpdd.one/?r=42354)
-
-试用：1天 1G
-
-最便宜的订阅有10元 300G/30天。
-
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-* * *
 * * *
 <h3></h3>
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://138.2.82.216/#/register?code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
@@ -123,20 +112,6 @@
 解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
 
 * * *
-
-
-### [冲上云霄](https://cpdd.one/?r=42354)
-
-点击注册：[点击进入](https://cpdd.one/?r=42354)
-
-试用：1天 1G
-
-最便宜的订阅有10元 300G/30天。
-
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-* * *
-
 
 
 
