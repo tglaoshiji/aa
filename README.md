@@ -35,9 +35,9 @@
 
 * * *
 
-### [西游云](https://www.xiyou666.xyz/?path=register&code=LQzUg4EU)
+### [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1)
 
-注册链接：[点击进入](https://www.xiyou666.xyz/?path=register&code=LQzUg4EU)
+注册链接：[点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1)
 
 
 
