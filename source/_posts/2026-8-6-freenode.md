@@ -61,7 +61,7 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 ### 注册地址：【[星辰官网（点击注册）](http://c.xcvpn.me/?code=tLBWwhPs) 】
 
 
-## 4.高速机场推荐[【西游云】](https://c.xiyou666.xyz/?code=2mVFWPT1)
+## 4.高速机场推荐[【西游云】](https://d.xiyou666.xyz/?code=2mVFWPT1)
 
 **至多80个节点，含冷门国家**
 
@@ -69,7 +69,7 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 支持月付、季付、年付和**一次性套餐**
 
-### 注册地址：【[西游云官网（点击注册）](https://c.xiyou666.xyz/?code=2mVFWPT1) 】
+### 注册地址：【[西游云官网（点击注册）](https://d.xiyou666.xyz/?code=2mVFWPT1) 】
 
 ## 高速机场推荐5[【快猫】](https://cf3.ikuaimao.world/#/register?code=9xg6G0AV)
 
