@@ -42,9 +42,9 @@
 
 * * *
 
-### [西游云](https://c.xiyou666.xyz/?code=2mVFWPT1)
+### [西游云](https://d.xiyou666.xyz/?code=2mVFWPT1)
 
-注册链接：[点击进入](https://c.xiyou666.xyz/?code=2mVFWPT1)
+注册链接：[点击进入](https://d.xiyou666.xyz/?code=2mVFWPT1)
 
 
 
