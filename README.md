@@ -1,5 +1,5 @@
  
-## 更新时间 2026-8-30
+## 更新时间 2026-8-31
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!!!
 
@@ -14,13 +14,13 @@
 [点击进入果书账号商店 ](http://goso002.com?from=32977)
 
 *  *  *
-### [【88云加速】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 最便宜的订阅有10元 300G/月
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 *  *   *
 
